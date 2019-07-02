@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{934:function(n,e,o){"use strict";o.r(e);var a,t=o(932),i=o(929);function r(){return a||(a=Object(t.a)(i.createHistory)({basename:window.baseUrl}))}function w(){var n=r(),e=window.location.pathname+window.location.search+window.location.hash;n.replace({pathname:"/sessions/new",query:{return_to:e}})}o.d(e,"default",function(){return w})}}]);
+//# sourceMappingURL=2.2afbf73a.chunk.js.map
